@@ -40,3 +40,8 @@ In the file, replace "..." with your OpenAI's API key.
 With the above steps, you are all set to run `script.ipynb` without any error.
 
 🚨 Caution: Make sure to select your Jupyter Notebook's kernel as your current virtual environment.
+
+## New Sources:
+- How to Build a Personalized PDF Chat Bot with Conversational Memory: https://medium.com/@avra42/how-to-build-a-personalized-pdf-chat-bot-with-conversational-memory-965280c160f8
+- How To Build a ChatBot to Chat With Your PDF: https://blog.gopenai.com/how-to-build-a-chatbot-to-chat-with-your-pdf-9abb9beaf0c4
+- How to Build a PDF Chatbot with Streamlit and LangChain: https://medium.com/@krishankantsinghal/building-a-pdf-chatbot-with-streamlit-and-langchain-ed6c567ce6fe
